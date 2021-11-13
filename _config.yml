@@ -9,7 +9,7 @@
 title: NoQR
 email: noqrcode@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Build a normal life without QR code
+  Остановим QR фашизм! / Stop QR Fascism!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
 twitter_username: noqr
