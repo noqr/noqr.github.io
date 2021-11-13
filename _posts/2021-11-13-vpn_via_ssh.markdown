@@ -16,6 +16,7 @@ categories: vpn ssh technology
 `ssh -fTND 4711 someserver.com`
 
 Далее меняем сетевые настройки (Linux)
-![socks5_proxy.png](assets/socks5_proxy.png)
+
+![socks5_proxy.png](/assets/socks5_proxy.png)
 
 Проверям свой IP адрес браузером, например, здесь `https://eax.me/ip/`. Или просто идем на [rutracker.org](https://rutracker.org/)
