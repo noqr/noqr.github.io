@@ -11,5 +11,9 @@ categories: main
 
 К размышлению
 
+<div class="youtube-container">
+   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/abwSWaaTi18" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 <iframe width="480" height="360" src="https://www.youtube.com/embed/abwSWaaTi18" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
