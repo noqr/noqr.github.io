@@ -11,4 +11,5 @@ categories: main
 
 К размышлению
 
-{% youtube abwSWaaTi18 %}
+<iframe width="480" height="360" src="http://www.youtube.com/abwSWaaTi18" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
