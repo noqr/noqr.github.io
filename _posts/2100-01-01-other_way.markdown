@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Мы пойдем другим путем"
+date:   2100-01-01 00:00:00 -0700
+categories: goals
+---
+
+![other_way.jpg](/assets/other_way.jpg)
