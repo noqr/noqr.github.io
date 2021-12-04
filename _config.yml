@@ -11,7 +11,7 @@ email: noqrcode@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Остановим QR фашизм! / Stop QR Fascism!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
+url: "https://noqr.github.io" # the base hostname & protocol for your site
 twitter_username: noqr_org
 github_username:  noqr
 

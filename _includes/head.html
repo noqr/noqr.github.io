@@ -6,10 +6,10 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <meta name="twitter:card" content="summary_large_image"></meta>
+  <meta name="twitter:card" content="summary"></meta>
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"></meta>
   {% if page.twitter_image %}
-  <meta name="twitter:image" content="{{ page.twitter_image }}"></meta>
+  <meta name="twitter:image" content="{{ site.url }}{{ page.twitter_image }}"></meta>
   {% endif %}
   {% if page.twitter_desc %}
   <meta name="twitter:description" content="{{ page.twitter_desc }}"></meta>

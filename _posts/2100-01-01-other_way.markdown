@@ -3,7 +3,7 @@ layout: post
 title:  "Закреплено: Мы пойдем другим путем"
 date:   2100-01-01 00:00:00 -0700
 categories: main
-twitter_image: "https://noqr.github.io/assets/other_way.jpg"
+twitter_image: "/assets/other_way.jpg"
 twitter_desc: "Почему попытки вразумить государство не имеют большого смысла"
 ---
 

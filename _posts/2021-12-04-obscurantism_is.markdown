@@ -3,6 +3,8 @@ layout: post
 title: "Мракобесие это..."
 date: 2021-12-04 11:00:00 -0700
 categories: main
+twitter_image: "/assets/I_do_not_work_for your_protection.jpg"
+twitter_desc: "Что на самом деле является мракобесием"
 ---
 
 ![I_do_not_work_for your_protection.jpg](/assets/I_do_not_work_for your_protection.jpg)
