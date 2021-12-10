@@ -9,3 +9,8 @@ categories: culture
    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/slXoFCITuec" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
+[Канал Bad Kings](https://www.youtube.com/channel/UCr364ALOrK1dFIADF9rxPlg)
+
+<div class="youtube-container">
+   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/JqLETPyYtMo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
