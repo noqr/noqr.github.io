@@ -8,22 +8,22 @@ categories: resistance
 
 <div class="youtube-container">
    <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1wIPcFuEZl1gQK5gDZ0gi_lDak7QRpkyw/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+</div><br />
 
 ### Christine Anderson response
 <div class="youtube-container">
    <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1iK9RgVaBGOpwe9otXvHBQ3laXsA5Epvs/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+</div><br />
 
 ### Русский перевод
 <div class="youtube-container">
    <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1ZI6QUZPSBSBUaw9Up6FNi9kROmmQ1pcx/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+</div><br />
 
 ### Бонус: Christine Anderson in Brussels
 <div class="youtube-container">
    <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1JtQpt-5iRxFzWCGZonWNo2O_wKHuI7yD/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+</div><br />
 
 
 
