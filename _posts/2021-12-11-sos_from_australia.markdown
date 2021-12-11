@@ -13,7 +13,7 @@ categories: resistance
 ### Christine Anderson response
 <video controls="controls">
    <source src="/assets/Christine Anderson on Australia SOS.mp4" />
-</video>
+</video><br />
 
 ### Русский перевод
 <div class="youtube-container">
