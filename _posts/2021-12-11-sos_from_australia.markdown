@@ -11,7 +11,7 @@ categories: resistance
 </div><br />
 
 ### Christine Anderson response
-<video class="youtube-container" controls="controls">
+<video controls="controls">
    <source src="/assets/Christine Anderson on Australia SOS.mp4" />
 </video>
 
