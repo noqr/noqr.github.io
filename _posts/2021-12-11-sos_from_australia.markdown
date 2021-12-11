@@ -11,9 +11,9 @@ categories: resistance
 </div><br />
 
 ### Christine Anderson response
-<div class="youtube-container">
-   <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1iK9RgVaBGOpwe9otXvHBQ3laXsA5Epvs/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div><br />
+<video class="youtube-container" controls="controls">
+   <source src="/assets/Christine Anderson on Australia SOS.mp4" />
+</video>
 
 ### Русский перевод
 <div class="youtube-container">
