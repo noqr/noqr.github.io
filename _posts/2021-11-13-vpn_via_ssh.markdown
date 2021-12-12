@@ -20,3 +20,7 @@ categories: technology
 ![socks5_proxy.png](/assets/socks5_proxy.png)
 
 Проверям свой IP адрес браузером, например, здесь `https://eax.me/ip/`. Или просто идем на [rutracker.org](https://rutracker.org/)
+
+## Дополнительно
+
+[Пошаговая инструкция по настройке Wireguard VPN + DNSCrypt + DNS server (Unbound) + Pihole / Хабр](/assets/vpn_idea1.mht)
