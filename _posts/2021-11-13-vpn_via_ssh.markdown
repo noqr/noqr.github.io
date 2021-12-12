@@ -23,4 +23,4 @@ categories: technology
 
 ## Дополнительно
 
-[Пошаговая инструкция по настройке Wireguard VPN + DNSCrypt + DNS server (Unbound) + Pihole / Хабр](/assets/vpn_idea1.mht)
+[Пошаговая инструкция по настройке Wireguard VPN + DNSCrypt + DNS server (Unbound) + Pihole / Хабр](/assets/vpn_idea1.mhtml)
