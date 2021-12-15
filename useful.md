@@ -10,7 +10,7 @@ permalink: /knowledge/
    <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1LD8L-lf4yC8Nt-21slYQfb9YMibB62nq/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div><br />
 
-### Covid/vaccine discussion: Dr. Peter McCullough with the legendary Joe Rogan (Pandemic)
+### Covid/vaccine discussion: Dr. Peter McCullough with the legendary Joe Rogan
 
 <div class="youtube-container">
    <iframe class="responsive-iframe" src="https://rumble.com/embed/vo68n6/?pub=4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
