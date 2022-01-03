@@ -20,7 +20,12 @@ permalink: /knowledge/
 
 <div class="youtube-container">
    <iframe class="responsive-iframe" src="https://api.banned.video/embed/61cf8f20cddb3b489fafd4c2" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+</div><br />
 
+### Dr. Robert Malone Visits Infowars After Being Banned By Twitter Bombshell Interview
+
+<div class="youtube-container">
+   <iframe class="responsive-iframe" src="https://api.banned.video/embed/61cfa6acea6077490e2dbf4a" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 
