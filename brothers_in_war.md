@@ -16,4 +16,4 @@ permalink: /friendlies/
 
 Name|Type|Resources
 :---|:---|:--------
-Robert W Malone, MD|Scientist|**Telegram:** RWMaloneMD<br/>**Blog:** (https://rwmalonemd.substack.com)
+Robert W Malone, MD|Scientist|**Telegram:** RWMaloneMD<br/>**Blog:** [Who is Robert Malone](https://rwmalonemd.substack.com)
