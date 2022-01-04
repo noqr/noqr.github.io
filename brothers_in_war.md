@@ -10,7 +10,7 @@ permalink: /friendlies/
 :-------|:--|:------
 Павел Парфентьев|Юрист|**Telegram:** parfentiev_club
 
-<br/><br/>
+<br/>
 
 # In the World
 
