@@ -16,7 +16,3 @@ categories: stats
 ### Кондратьев Вениамин Иванович. Губернатор Краснодарского края
 
 [Подтверждающие документы](https://admkrai.krasnodar.ru/content/1291/show/608930/)
-
-[http://qr-cod.net](http://qr-cod.net)
-
-[Telegram: qr_cod_net](https://t.me/qr_cod_net)
