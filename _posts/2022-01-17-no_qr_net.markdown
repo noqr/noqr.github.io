@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "http://qr-cod.net"
-date:   2021-12-31 10:26:00 -0700
-categories: stats
+date:   2022-01-17 11:00:00 -0700
+categories: resistance
 ---
 
 # Питерцы молодцы! 
