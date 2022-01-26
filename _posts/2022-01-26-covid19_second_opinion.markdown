@@ -18,4 +18,10 @@ This 38 minute video highlights the 5-hour discussion.
 
 <div class="youtube-container">
    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/9jMONZMuS2U" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div><br />
+
+Если YouTube удалит, то сохранена локальная копия
+
+<div class="youtube-container">
+   <iframe class="responsive-iframe" src="https://drive.google.com/file/d/10dO30GbP6c4ghUTbpaWlkuNP5WiyLG1t/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
