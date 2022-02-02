@@ -19,5 +19,6 @@ github_username:  noqr
 permalink: /:categories/:year/:month/:day/:title
 
 # Build settings
+future: true
 markdown: kramdown
 exclude: ["README.md", "saved"]
